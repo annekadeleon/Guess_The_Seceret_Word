@@ -8,4 +8,4 @@ A Python program that asks the user to enter a secret word, then asks them to en
 - Creating and calling function
 - Using for, if, and while loops
 
-##### This was created in partial fulfillment of the requirements for the Artificial Intelligence Elective Course at the De La Salle-College of Saint Benilde.
+##### This was created for the submission of a lab activity for the Artificial Intelligence Elective subject, in partial fulfillment of the requirements of the BSc Information Systems course at the De La Salle-College of Saint Benilde.
